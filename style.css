@@ -1,0 +1,111 @@
+.img1 {
+    width: "30px";
+    height: "30px";
+}
+
+.pad {
+    padding-top: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 100%; */
+}
+
+.border-up {
+    margin-top: 30px;
+    border-top: 2px;
+}
+
+.left {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    width: 40%;
+    position: absolute;
+    top: 30%;
+    left: 6%;
+}
+
+.ayur-content {
+    width: 100%;
+    position: absolute;
+    top: 130%;
+    right: 50px;
+    text-align: right;
+}
+
+.text {
+    width: 40%;
+    position: absolute;
+    top: 30%;
+    left: 6%;
+}
+
+.flower-text {
+    width: 40%;
+    position: absolute;
+    top: 210%;
+    left: 6%;
+}
+
+.green {
+    color: green;
+}
+
+.img-left {
+    left: 78px;
+    border: 3Spx;
+    /* text-align: right; */
+}
+
+.powder {
+    width: 100%;
+    position: absolute;
+    top: 297%;
+    margin-left: 290px;
+    padding: 10px;
+}
+
+.jeera {
+    width: 100%;
+    position: absolute;
+    top: 294%;
+    margin-left: 200px;
+    padding: 10px;
+}
+
+.image-center {
+    position: relative;
+    margin-left: 510px;
+    margin-right: 300px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+
+.image-text {
+    top: 330%;
+    text-align: center;
+}
+
+.checked {
+    color: orange;
+}
+
+.center-rating {
+    text-align: center;
+}
+
+.pencil_image {
+    position: absolute;
+    margin-left: 500px;
+    top: 390%;
+}
